@@ -34,7 +34,7 @@ func main() {
 
 ### License
 
-sms is license under the Apache License.
+sms is licensed under the Apache License.
 
 ### Authors
 
